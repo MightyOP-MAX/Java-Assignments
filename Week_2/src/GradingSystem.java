@@ -16,5 +16,6 @@ public class GradingSystem {
          System.out.println("Fail");
       else
          System.out.println("INVALID");
+      input_m.close();
    }
 }

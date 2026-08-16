@@ -9,5 +9,7 @@ public class LeapYear {
             System.out.println("This is Leap Year");
         else
             System.out.println("Not a Leap Year");
+
+        input.close();
     }
 }
